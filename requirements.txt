@@ -1,0 +1,11 @@
+pandas
+keras
+tensorflow
+matplotlib
+numpy
+jupyter
+notebook
+tqdm
+kaggle
+flask
+opencv-python
